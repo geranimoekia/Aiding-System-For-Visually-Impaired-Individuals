@@ -6,19 +6,6 @@
 Department of Electrical, Computer and Telecommunications Engineering  
 Botswana International University of Science and Technology — Palapye, Botswana
 
----
-
-## Overview
-
-This repository contains the research paper, LaTeX source, and all extracted figures for the
-**Enhanced Mobility Device** — a proximity-sensor-based walking stick designed to assist
-visually impaired individuals in navigating their environments safely and independently.
-
-The device integrates HC-SR04 ultrasonic proximity sensors and NE555 timers into a handheld
-rechargeable stick. It detects obstacles at two range thresholds (1 m and 3 m) and provides
-haptic (DC motor vibration) and auditory (piezoelectric buzzer) feedback.
-
----
 
 ## Tech Stack
 
@@ -33,6 +20,21 @@ haptic (DC motor vibration) and auditory (piezoelectric buzzer) feedback.
 | **Proteus 8** | Circuit simulation |
 | **Tinkercad** | 3D circuit prototyping |
 | **Python** | Figure extraction scripts |
+
+---
+
+## Overview
+
+This repository contains the research paper, LaTeX source, and all extracted figures for the
+**Enhanced Mobility Device** — a proximity-sensor-based walking stick designed to assist
+visually impaired individuals in navigating their environments safely and independently.
+
+The device integrates HC-SR04 ultrasonic proximity sensors and NE555 timers into a handheld
+rechargeable stick. It detects obstacles at two range thresholds (1 m and 3 m) and provides
+haptic (DC motor vibration) and auditory (piezoelectric buzzer) feedback.
+
+---
+
 
 ## Repository Structure
 
