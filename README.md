@@ -1,4 +1,11 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:F107A3&height=200&section=header&text=Aiding+System&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Proximity-Sensor+Walking+Stick+%C2%B7+BIUST&descAlignY=56&descAlign=50)
+
 # Aiding System For Visually Impaired Individuals
+
+> A proximity-sensor walking stick that detects obstacles at 1m and 3m and delivers haptic and auditory feedback to visually impaired users. HC-SR04 + NE555 + LM358 — simulated in Proteus, published in IEEE format.
+
+![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/Aiding-System-For-Visually-Impaired-Individuals?style=for-the-badge&color=0e75b6)
+![License](https://img.shields.io/github/license/geranimoekia/Aiding-System-For-Visually-Impaired-Individuals?style=for-the-badge&color=brightgreen)
 
 **"Enhanced Mobility Device with Proximity Sensors Technology"**
 
