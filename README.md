@@ -20,6 +20,20 @@ haptic (DC motor vibration) and auditory (piezoelectric buzzer) feedback.
 
 ---
 
+## Tech Stack
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus_8-00A99D?style=for-the-badge&logo=protel&logoColor=white)
+
+| Tool | Purpose |
+|---|---|
+| **LaTeX / IEEEtran** | Research paper typesetting |
+| **Proteus 8** | Circuit simulation |
+| **Tinkercad** | 3D circuit prototyping |
+| **Python** | Figure extraction scripts |
+
 ## Repository Structure
 
 ```
