@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:F107A3&height=200&section=header&text=Aiding+System&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Proximity-Sensor+Walking+Stick+%C2%B7+BIUST&descAlignY=56&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:F107A3&height=200&text=Aiding+System&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Proximity-Sensor+Walking+Stick+%C2%B7+BIUST&descAlignY=56&descAlign=50)
 
 # Aiding System For Visually Impaired Individuals
 
