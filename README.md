@@ -2,7 +2,7 @@
 
 # Aiding System For Visually Impaired Individuals
 
-> A proximity-sensor walking stick that detects obstacles at 1m and 3m and delivers haptic and auditory feedback to visually impaired users. HC-SR04 + NE555 + LM358 — simulated in Proteus, published in IEEE format.
+> A proximity-sensor walking stick that detects obstacles at 1m and 3m and delivers haptic and auditory feedback to visually impaired users. HC-SR04 + NE555 + LM358 - simulated in Proteus, published in IEEE format.
 
 ![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/Aiding-System-For-Visually-Impaired-Individuals?style=for-the-badge&color=0e75b6)
 ![License](https://img.shields.io/github/license/geranimoekia/Aiding-System-For-Visually-Impaired-Individuals?style=for-the-badge&color=brightgreen)
@@ -11,7 +11,7 @@
 
 *Tsotlhe Seiphepi, Adamu Murtala Zungeru, Jwaone Gaboitaolelwe*  
 Department of Electrical, Computer and Telecommunications Engineering  
-Botswana International University of Science and Technology — Palapye, Botswana
+Botswana International University of Science and Technology - Palapye, Botswana
 
 
 ## Tech Stack
@@ -33,7 +33,7 @@ Botswana International University of Science and Technology — Palapye, Botswan
 ## Overview
 
 This repository contains the research paper, LaTeX source, and all extracted figures for the
-**Enhanced Mobility Device** — a proximity-sensor-based walking stick designed to assist
+**Enhanced Mobility Device** - a proximity-sensor-based walking stick designed to assist
 visually impaired individuals in navigating their environments safely and independently.
 
 The device integrates HC-SR04 ultrasonic proximity sensors and NE555 timers into a handheld
